@@ -4,3 +4,6 @@
 [submodule "includes/asterisk-siteswaphone"]
 	path = includes/asterisk-siteswaphone
 	url = git@github.com:paulseward/asterisk-siteswaphone.git
+[submodule "includes/asterisk-tim"]
+	path = includes/asterisk-tim
+	url = git@github.com:paulseward/asterisk-tim.git
