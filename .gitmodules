@@ -1,0 +1,3 @@
+[submodule "includes/dialcnet"]
+	path = includes/dialcnet
+	url = git@github.com:paulseward/dialcnet.git
