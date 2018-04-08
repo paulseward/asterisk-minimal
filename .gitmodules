@@ -1,3 +1,6 @@
 [submodule "includes/dialcnet"]
 	path = includes/dialcnet
 	url = git@github.com:paulseward/dialcnet.git
+[submodule "includes/asterisk-siteswaphone"]
+	path = includes/asterisk-siteswaphone
+	url = git@github.com:paulseward/asterisk-siteswaphone.git
