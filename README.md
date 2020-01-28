@@ -9,7 +9,7 @@ The config will attempt to include the following files:
 
 We're also using git submodules to pull in a couple of other bits of config which are in their own repositories:
 * `asterisk-tim` UK speaking clock from https://github.com/paulseward/asterisk-tim
-* `dialcnet` C*Net access macro from https://github.com/paulseward/dialcnet
+* `dialcnet` C*Net access from https://github.com/paulseward/dialcnet
 
 ## Setup
 To actually use this repository to configure an asterisk server, you need to do the following:
