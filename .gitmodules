@@ -1,6 +1,0 @@
-[submodule "includes/dialcnet"]
-	path = includes/dialcnet
-	url = git@github.com:paulseward/dialcnet.git
-[submodule "includes/asterisk-tim"]
-	path = includes/asterisk-tim
-	url = git@github.com:paulseward/asterisk-tim.git
